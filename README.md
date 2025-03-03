@@ -2,6 +2,10 @@
 
 A PHP-based scoreboard system for Highland Games competitions with real-time updates and a comprehensive admin interface.
 
+<p align="center">
+  <img src="https://i.imgur.com/h6zcpNy.png" alt="Highland Games Scoreboard" width="650">
+</p>
+
 ## Features
 
 - **Flexible Event Management**: Create and manage any type of event with customizable scoring.
