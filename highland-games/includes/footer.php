@@ -6,6 +6,7 @@
                 <div class="col-md-6">
                     <h5><?php echo SITE_NAME; ?></h5>
                     <p><?php echo SITE_DESCRIPTION; ?></p>
+                    <p><a href="https://github.com/vernam-k/HighlandGames" class="text-white" target="_blank"><i class="fab fa-github me-1"></i>GitHub Repository</a></p>
                 </div>
                 <div class="col-md-6 text-md-end">
                     <p>&copy; <?php echo date('Y'); ?> <?php echo SITE_NAME; ?>. All rights reserved.</p>
