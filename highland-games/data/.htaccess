@@ -1,0 +1,14 @@
+# Deny access to all files in this directory
+<Files *>
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Deny access to all JSON files
+<FilesMatch "\.json$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Disable directory browsing
+Options -Indexes
