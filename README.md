@@ -2,8 +2,6 @@
 
 A PHP-based scoreboard system for Highland Games competitions with real-time updates and a comprehensive admin interface.
 
-**GitHub Repository**: [https://github.com/vernam-k/HighlandGames](https://github.com/vernam-k/HighlandGames)
-
 <p align="center">
   <img src="https://i.imgur.com/h6zcpNy.png" alt="Highland Games Scoreboard" width="650">
 </p>
